@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/Users/psxjr/workspace2/CityGMLFaff/bin/test2.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/CityGMLFaff/CityGMLFaff.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=CityGMLFaff/src&lt;{BuildingCreator.java[BuildingCreator" manifestLocation="/CityGMLFaff/CityGMLFaffManifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/CityGMLFaff/dul_model.xml"/>
+        <javaElement handleIdentifier="=CityGMLFaff/src"/>
+        <file path="/CityGMLFaff/LOD2_Building_v100.xml"/>
+        <file path="/CityGMLFaff/.project"/>
+        <file path="/CityGMLFaff/testLOD1_Building_v100_without_roof_or_floor.xml"/>
+        <file path="/CityGMLFaff/testLOD4_Building_v100_WITH_ROOM_loop.xml"/>
+        <file path="/CityGMLFaff/ogl_model.xml"/>
+        <file path="/CityGMLFaff/test_citygml_from_shapefile_composite.xml"/>
+        <file path="/CityGMLFaff/.classpath"/>
+        <file path="/CityGMLFaff/test_citygml_from_shapefile.xml"/>
+        <file path="/CityGMLFaff/test_citygml_from_shapefile.kml"/>
+        <file path="/CityGMLFaff/AC11-FZK-Haus_LoD4_SpaceSolid_v1.0.0_scaled_rotated.xml"/>
+        <file path="/CityGMLFaff/test_citygml_from_shapefile_scaled_and_rotated.xml"/>
+        <file path="/CityGMLFaff/AC11-FZK-Haus_LoD4_SpaceSolid_v1.0.0.xml"/>
+        <file path="/CityGMLFaff/AC11-FZK-Haus_LoD4_SpaceSolid_v1.0.0.xml.xsa"/>
+        <file path="/CityGMLFaff/testLOD4_Building_v100_geoIndo.xml"/>
+        <file path="/CityGMLFaff/testLOD4_Building_v100_WITH_ROOM_loop.skp"/>
+        <file path="/CityGMLFaff/LOD2_Building_v100_Scaled.xml"/>
+        <file path="/CityGMLFaff/LOD2_Building_v100_Scaled.skp"/>
+        <file path="/CityGMLFaff/test_citygml_from_shapefile.xml.xsa"/>
+        <file path="/CityGMLFaff/lod2Test.xml"/>
+        <folder path="/CityGMLFaff/data"/>
+        <file path="/CityGMLFaff/test_citygml_from_shapefile.skp"/>
+    </selectedElements>
+</jardesc>

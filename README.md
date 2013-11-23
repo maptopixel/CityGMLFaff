@@ -1,0 +1,1 @@
+CityGML creation / export / shapefile conversion. Extrudes a shapefile to make a LoD 2 building then populates it with a LoD 4 rooms shapefile.
